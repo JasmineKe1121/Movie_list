@@ -1,8 +1,12 @@
 # Movie List 電影清單
 
 ## ⚙Screenshots 專案畫面
+
+#### 首頁
 ![Minion](https://github.com/JasmineKe1121/Movie_list/blob/main/public/screenshots/screenshot1.png)
+#### 個別電影資料
 ![Minion](https://github.com/JasmineKe1121/Movie_list/blob/main/public/screenshots/screenshot2.png)
+#### 搜尋特定電影
 ![Minion](https://github.com/JasmineKe1121/Movie_list/blob/main/public/screenshots/screenshot3.png)
 
 ## 📄Overview 簡介
