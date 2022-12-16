@@ -3,6 +3,7 @@
 ## ⚙Screenshots 專案畫面
 ![Minion](https://github.com/JasmineKe1121/Movie_list/blob/main/public/screenshots/screenshot1.png)
 ![Minion](https://github.com/JasmineKe1121/Movie_list/blob/main/public/screenshots/screenshot2.png)
+![Minion](https://github.com/JasmineKe1121/Movie_list/blob/main/public/screenshots/screenshot3.png)
 
 ## 📄Overview 簡介
 這是一個簡單的電影清單網站，使用者可以查看電影詳細資料，與搜尋喜愛的電影。
